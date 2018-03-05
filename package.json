@@ -1,0 +1,9 @@
+{
+  "name": "build-out-automater",
+  "version": "0.0.0",
+  "description": "BuildOutAutomater",
+  "main": "server.js",
+  "author": {
+    "name": "Dalton"
+  }
+}
